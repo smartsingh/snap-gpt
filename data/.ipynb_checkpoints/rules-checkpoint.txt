@@ -1,0 +1,109 @@
+Marvel Snap is the debut game from Second Dinner, a game development studio founded by former Hearthstone developers Ben Brode, Yong Woo and Hamilton Chu. Like Hearthstone, it is a collectible card game globally released as of October 18, 2022.
+
+Set in the Marvel Universe, it features iconic characters such as Wolverine, Spider-Man, Iron Man, and Hulk. The game has attracted a huge audience, many of whom are likely new to card games and fans of Marvel.
+
+In this guide, you will learn how to optimally play the game, collect cards, and more, to get you started on the right foot.
+
+What is Marvel Snap?
+
+Whether you’re a fan of the Marvel Cinematic Universe (MCU), a Marvel Comics enjoyer, or a dedicated CCG player, playing Marvel Snap likely offers you something new and refreshing. Marvel Snap is a card-battler that looks to seamlessly blend the world renown aesthetic of Marvel Heroes and Villains with collectable cards, quick and punchy gameplay, and a variety of rule-altering locations so that no two games ever play the same. Collectors have super-rare card variants to chase, and players get to advance their collections and earn new rewards just for playing games, many of which last for less than 5 minutes.
+
+Marvel Snap is looking to appeal to many of the issues other CCG’s and video games often can’t remedy, by creating a game that only lasts for six turns, which are completed by both players simultaneously. This means games are quick and action-packed, and every last play feels important and exciting. Once you throw in dedicated voice-lines, cool animated effects, and game pieces that change each game you play, it’s easy to see why so many players and Marvel lovers alike have found something to enjoy about Marvel Snap.
+
+Marvel Snap is currently available for mobile on iOS, Android, and Windows! M1 and M2 macs can also access the game on the app store, but there is currently no Mac version of the game.
+
+The Basics
+
+When you get into a game of Marvel Snap, you will see three hexagonal shapes in the middle of the playing field. These are the Locations. The main objective of a game of Marvel Snap is very simple: Win two of the three locations in the centre of the game board after the final turn of the game. How do you defeat your opponent at a Location? By amassing more Power than them.
+
+Image of gameboard in Marvel Snap showing the three locations
+The Full Marvel Snap Game Board
+Each card in Marvel Snap has a Power value assigned to it. You can see a card’s Power at the top right of the card, inside a glowing orange circle. When you play cards to a Location the Power on your side of that Location will increase.
+
+The games in Marvel Snap are short, they only last six turns! After six turns, whoever has more power at two out of three of the Locations wins. If there is a tie at any or all of the Locations, the player with the most total Power across all three Locations is the winner. If there is a tie in total Power as well, then the game ends in a draw.
+
+
+Check out some examples of gameplay, voice lines and special effects in this gameplay trailer!
+The Cost
+
+Each card and their variants, in addition to a Power value, has an Energy cost assigned to it. The Energy cost can be seen at the top left of a card, inside a glowing blue circle. This denotes how much Energy it costs to be able to play the card. You start a game with one Energy on turn one and then gain an additional Energy at the start of each turn. So by the final turn, you will have six Energy. There is no limit to the amount of cards you can play in a given turn, just the amount of Energy you can spend. This means on turn six, you could play one 6-cost card, two 3-cost cards, or possibly three 2-cost cards. It just depends on what cards you draw, how much energy they cost, and how much energy you have.
+
+You play a card by dragging it from your hand onto a location. You can only have a maximum of four cards at any location, so choose wisely where you want to play your card!
+
+Once you play a card, it remains face down at its location until both you and your opponent have hit the End Turn button. Turns happen simultaneously in Marvel Snap, so you won’t know what your opponent is playing until after you have made your play and ended your turn. Once both players have hit that End Turn button, the cards are revealed, with the player who is currently winning having their card(s) revealed first. If the game is currently tied (such as at the beginning of a match), the game chooses a player at random to reveal first. The game indicates who has initiative (i.e. who will reveal their cards first) by displaying a glow around that player’s name/avatar.
+
+The Cards
+
+As we mentioned, each card in Marvel Snap has two basic attributes: Energy and Power. Energy is the amount of Energy it costs to play a card and a card’s Power is how much Power it adds to its location. But many cards in Snap come with a unique ability as well. These abilities can be seen by clicking on a card and reading the text underneath the card art. These abilities can provide additional benefits or other effects which make cards more powerful than they may first appear.
+
+There are two main keywords that appear in cards’ abilities, which are On Reveal and Ongoing. On Reveal effects happen when a card is revealed. A simple example is the card Medusa. Her text reads “On Reveal: If this is at the middle location, +3 Power.” So when she is revealed, if she’s in the middle, she goes from 2 Power to 5 Power. It’s a one time effect that happens whenever a card is revealed. Important to note that a card will trigger its On Reveal effect whenever it is revealed, even if the card was not deliberately played by the player and got pulled onto a Location via another effect (which happens surprisingly often!).
+
+The other main keyword, Ongoing, is fairly self-explanatory. Ongoing denotes an effect that is, well, ongoing. In other words, it remains active throughout the game. Example is Captain America, whose text reads “Ongoing: Your other cards at this Location have +1 Power.” So wherever Captain America is located he gives your other cards at that Location +1 Power, for the remainder of the game.
+
+There are other abilities that don’t include On Reveal and Ongoing. You can browse through all of the known cards in our card database to see the many different and varying effects. Building and playing a deck full of cards with synergistic abilities is one of the most fun things about Marvel Snap! Check out our deck builder as well, to experiment with different deck builds.
+
+The Locations
+
+It’s not only cards which have effects in Marvel Snap. Each Location also has a unique effect that alters the state of the game. An example would be Stark Tower, which reads “At the end of turn 5, give all cards here +2 Power.” If you saw that Location pop up in a game you would want to get all four possible cards there before the end of turn 5, to take full advantage of its effect. Each Location in the game provides a new avenue for optimal play, making every game of Marvel Snap a little bit different! Some location abilities are usually great for both players, and some are actively detrimental to certain strategies or cards.
+
+As stated before, we can win locations by deploying our cards onto them to increase the amount of stats we have at the location – unless the location text says otherwise, whoever has the highest amount of stats at a location at the end of the final turn of the game will win that location. This is often a challenge in space and card management, as you cannot have more than 4 cards at any one location.
+
+When the game first starts, only one Location (the left one) will be revealed. The other two will be hidden initially, with the middle Location revealing before turn two and the right Location revealing before turn three. Once a Location reveals itself, its effect becomes immediately active. It is important to note that you can play cards on unrevealed Locations and in doing so you can sometimes “get around” certain Locations’ effects. (For example, playing a 1-cost card on Hellfire Club before it is revealed).
+
+Each game you will get three random Locations. Some Locations are more rare than others. There also are times when a certain Location will be designated a “Featured” or “Hot” Location and these will show up more often in games.
+
+But if some locations are bad for you, why would you try to win them? Why would you play cards that could be punished by locations?
+
+Establishing
+Well, that’s because you don’t actually know every location you’re trying to win until turn three of six, with a new location revealing itself to both players on each of the first three turns. This not only allows for some incredibly sweet unforeseen happenings, but also really helps to keep each game different and fresh, as the order that locations reveal in can often dramatically effect how a game plays out!
+
+If you’d like to check out ALL the Locations Marvel Snap has to offer, we’ve got a comprehensive breakdown and full list of known ones in our Location database.
+
+The Stakes
+
+So you’ve got the gist of the game down. You have three Locations you are vying for, six turns to play your cards, Energy scales up each turn, and you need to win two of three Locations to win the game. Lastly, we need to talk about the snapping, retreating, and Cubes.
+
+Since card draws can vary, and locations can help or hurt you each game, you may often find yourself at an advantage or disadvantage in a match. To make this variance more interesting, Snap offers a neat system to increase the stakes of a match: Cubes!
+
+
+Every game you and your opponent are battling it out for more Cosmic Cubes. The more Cubes you gain, the higher your rank in game. You start each game battling it out for 1 Cube. Marvel Snap has taken inspiration from games such as Texas Hold ‘Em in the way cubes work, with the core mechanic of “snapping“. You or your opponent can, at any time in the game, “Snap” and double the amount of Cubes at stake. In addition, the Cubes will automatically double at the end of the game. In this way, you can end up winning (or losing) a max of 8 Cubes in a single game. Check out our guide on snapping strategy as well:
+
+However, much like Texas Hold ‘Em, you have the ability to retreat if you don’t want to play for higher stakes. At any time, either player can press the Retreat button in the bottom left hand corner of the screen to run away from the game, and if they do, they’ll only lose an amount of cubes equal to the stakes at the START of the turn they chose to retreat.
+
+Variance went poorly? Retreat.
+
+New deck didn’t work? Retreat.
+
+Desperately need the bathroom? Sure, Retreat.
+
+You also always have the choice to retreat from a match before the stakes get too high. If your opponent snaps, you can choose to retreat before the Cubes double. You can also choose to retreat before the final turn. If you feel you are likely to lose, it’s preferable to retreat than stick it out to the end. Better to lose only one or two Cubes, instead of four or eight!
+
+Gameplay image from Marvel Snap showing the amount of Cubes at stake
+Once you combine the short length of Marvel Snap games with the ability to retreat for minimal loss if things just don’t break your way, bad variance begins to feel more laughable and funny than unenjoyable, avoiding that bad taste that getting unlucky can often cause, and allowing you to better enjoy your opponents misfortune when the luck swings in your direction. I personally believe that this is one of Marvel Snap’s strongest assets, and results in players coming back for revenge in spots that may cause them to stop playing other games for a while.
+
+Snapping and retreating well, and managing your Cube output is the key to climbing the ranked ladder and eventually Cube management may be a crucial part of higher level tournament play (like chips in Poker). So it’s best to practice early!
+
+As an important note: New players will not unlock the snapping feature until after enough progress has been achieved. Usually after 10-20 matches are played, you will play a scripted match against an AI opponent where snapping is introduced. After this match is completed, you can begin snapping every match from that point on.
+
+Want to have the Guardians of the Galaxy in the palm of your hand, leaping into play, guns blazing, and even fighting alongside Yondu once more? How about putting together your ultimate Avengers crew and doing battle across Stark Tower, Central Park and the Daily Bugle? These are the kinds of dream teams and fantastical scenarios that Marvel Snap allows, and its excellent use of the Marvel licence is packed into a punchy portable card game where matches are short, the gameplay is easy to grok and you’re encouraged to check in every day. Spoiling the fanfest a little, however, is the actual process of building out your card collection, which I’ve found to be a long grind that eventually loses its early momentum.
+
+Marvel Snap is wonderfully streamlined: your deck consists of only 12 cards - no duplicates - and games last for six rounds. The board has three locations to contest, but the locations that appear are random and pulled from a large pool, with one revealed each turn over the first three rounds. Players queue up their actions simultaneously each round, deciding how to spend their available energy (which increases as a match progresses) to play cards to the locations of their choice. Once both players have ended their turn, the cards are revealed one at a time, triggering their effects. The end goal is to have more power than your opponent in two of three locations, so there’s an impressive amount of strategy in choosing where to play your cards, not to mention how to take advantage of favourable locations and mitigate difficult ones.
+
+
+
+Marvel Snap Release Date Trailer
+Marvel Snap Release Date Trailer
+Because each round happens simultaneously, Marvel Snap is a bit like a series of rock, paper, scissors encounters where you’re trying to anticipate what your opponent is likely to do. On top of this, at any point you can choose to “snap” to double the stakes of that match from the next round onwards, and your opponent can snap back at any point to double them again. The stakes themselves are cubes that raise or lower your ranking - so by the end of a game in which no one snaps, the winner gets two cubes, whereas if both players snap, eight cubes are up for grabs. And if your opponent snaps and you feel that winning is incredibly unlikely, you can retreat to lose fewer than you would by playing out a doomed match. Knowing when to snap, when to go all-in and when to retreat is critical in making progress on the ranked ladder (the only mode currently available) and goes hand in hand with a robust understanding of the meta.
+
+And for a game where each individual match takes around three minutes, there are a lot of decisions that have to be made. Each of the half-decent decks I’ve played so far in Marvel Snap have had a lot of non-obvious interactions or strategies to learn, all of which make them satisfying to play optimally. And of course, so much of what you do is based on what your opponent is doing: how they’re utilising the locations and what lines of play they’re likely to take based on what you know about their strategy and win condition. So many games in Marvel Snap come down to the final round, with a win on the table if you can correctly anticipate your opponent’s play. It really can be incredibly engrossing, and like all CCGs, the better you understand all of your options, the more you’ll get out of it.
+
+Marvel Snap has a diverse range of deck archetypes, supported by a host of interesting mechanics and keywords. There are decks built around discarding from your hand, having a large hand size, utilising ongoing effects, destroying your own cards, moving cards between locations, cheating big minions out, locking down locations, playing cards with no abilities, repeating “on reveal” triggers, and so on. The card pool has a little too much disruption for my tastes, which means that there are a number of decks out there that look to shut you out of any attempt to execute your gameplan; locking off locations and/or filling your locations with worthless cards. Not exactly fun.
+
+Mind you, the locations themselves often do a pretty good job of locking you out on their own, and the whole concept of having three random gameplay modifiers each match is very much a mixed blessing. Yes, it means that every game is different and you need to think on your feet - but it also means that there will be combinations of locations so antithetical to your strategy that the best play is to retreat while you’re only losing a single cube. The ability to retreat really is the only reason Marvel Snap is able to build its gameplay around a system with such high variance and not have it ruin the entire game. Even so, you’ll still be the beneficiary of - and fall victim to - absurd high rolls that are based purely on randomised location modifiers, and that’s not really something I want in my card games.
+
+Having three random gameplay modifiers each match is very much a mixed blessing.
+There are more than 50 locations in total, from Baxter Building and the Quantum Realm through to Wakanda, Asgard, Atlantis, Knowhere, and the X-Mansion. Marvel fans will enjoy seeing how deep the cuts go, and how the location’s ability ties into its comic book origins. Ego, for instance, is a super rare location, but when it’s revealed, Ego takes over and plays your cards for you. It’s amazing flavour, but really does turn that match into a coin flip, which - again - is not my cup of tea. Thank goodness for the option to retreat.
+
+Another important aspect of the location system is that there are regular “hot locations” and “featured locations,” both of which mean a particular location will appear significantly more frequently in games during that period. It’s like a mini meta table flip that’s designed to send players scrambling to build decks that take advantage of that location’s ability to get an edge on the competition. It’s a clever idea in theory, but in practice I think it’s actually just unfriendly to more casual players who aren’t necessarily plugged into the ecosystem enough to know how to capitalise on it. Instead, they may just find that their favourite deck is almost worthless for 24 hours.
+
+The times when the locations really shine are when they’re less binary: when you’re able to overcome a bad location or work around significant limitations to still snag a victory, so there’s certainly some upside. They also add yet more Marvel flavour, and it’s not like this game is lacking for Marvel flavour in the first place. In fact, Marvel Snap has to be one of the best uses of the Marvel licence in video games to date. It would still be great without it, but the team at Second Dinner really has done a fantastic job of delivering a game that fans will truly relish.
